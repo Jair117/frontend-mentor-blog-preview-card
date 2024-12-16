@@ -99,3 +99,14 @@ button {
     font-weight: 800;
     text-decoration: none;
 }
+
+.card-information button:hover {
+    color: var(--White);
+    background-color: var(--Gray-black);
+    cursor: pointer;
+}
+
+.card-information h1:hover {
+    color: var(--Yellow);
+    cursor: pointer;
+}
